@@ -1,0 +1,119 @@
+{
+  "props": [
+    {
+      "name": "10% white",
+      "type": "color",
+      "value": "#FFFFFF1A",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "j_D3zZ4c0"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken",
+      "type": "color",
+      "value": "#FFFFFF1A",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "XnVdRcGud"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 2",
+      "type": "spacing",
+      "value": "0ch",
+      "category": "spacing",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "r95ytk9lD"
+      }
+    },
+    {
+      "name": "dark1",
+      "type": "color",
+      "value": "#171821",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "sNUAmGS4S"
+      }
+    },
+    {
+      "name": "dark2",
+      "type": "color",
+      "value": "#313745",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "rzC6EtdSu"
+      }
+    },
+    {
+      "name": "orange",
+      "type": "color",
+      "value": "#FFBF29",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "ePmbOQ0Kk"
+      }
+    },
+    {
+      "name": "purple",
+      "type": "color",
+      "value": "#5856D6",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "o0D7Nurf9"
+      }
+    },
+    {
+      "name": "red",
+      "type": "color",
+      "value": "#FF4D4F",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "fAnvAr35T"
+      }
+    },
+    {
+      "name": "white 50%",
+      "type": "color",
+      "value": "#FFFFFF80",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "KJ6NKHKNY"
+      }
+    },
+    {
+      "name": "white 85%",
+      "type": "color",
+      "value": "#FFFFFFD9",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "9tbKEhXIl"
+      }
+    },
+    {
+      "name": "青色",
+      "type": "color",
+      "value": "#39CFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "7jQgmBmKYyCbHXSekk2FRy",
+        "id": "UojTJJ51D"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

@@ -1,0 +1,3480 @@
+.root {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+      0deg,
+      var(--token-rzC6EtdSu) 0%,
+      var(--token-sNUAmGS4S) 100%
+    )
+    0% 0% / 100% 100% repeat;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root {
+    padding: 0px 16px;
+  }
+}
+.content5 {
+  background: none;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: baseline;
+  position: relative;
+  left: auto;
+  top: auto;
+  min-width: 0;
+}
+.freeBox__bc4Sb {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  width: 1280px;
+  padding: 8px 0px;
+}
+.freeBox__bc4Sb > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox__bc4Sb > :global(.__wab_flex-container) > *,
+.freeBox__bc4Sb > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__bc4Sb > :global(.__wab_flex-container) > picture > img,
+.freeBox__bc4Sb
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__bc4Sb {
+    width: 100%;
+    min-width: 0;
+    padding: 8px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__bc4Sb > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__bc4Sb {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__bc4Sb > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.logo {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.logo > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.logo > :global(.__wab_flex-container) > *,
+.logo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.logo > :global(.__wab_flex-container) > picture > img,
+.logo > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 4px;
+}
+.寒芒Logo {
+  width: 48px;
+  height: 48px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.logo2 {
+  background: url("/plasmic/寒芒/images/logo.png") center center / cover no-repeat;
+  transform: translate(-0.02300000000000013px, -0.17800000000000005px);
+  width: 83.42%;
+  height: 97.91%;
+  display: block;
+  position: absolute;
+  top: 2.08%;
+  left: 8.33%;
+}
+.logoText {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.text__eRvky {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  color: #ffffff;
+  font-family: "Noto Sans SC", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 2px;
+  min-width: 0;
+}
+.text__e2Fj6 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  color: var(--token-KJ6NKHKNY);
+  font-size: 12px;
+  min-width: 0;
+}
+.freeBox__pqhoE {
+  flex-direction: row;
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  display: none;
+  padding: 8px;
+}
+.freeBox__pqhoE > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+}
+.freeBox__pqhoE > :global(.__wab_flex-container) > *,
+.freeBox__pqhoE > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pqhoE > :global(.__wab_flex-container) > picture > img,
+.freeBox__pqhoE
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__pqhoE {
+    display: none;
+  }
+}
+.svg__nEcdr {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .navbar__hanNc:global(.__wab_instance) {
+    display: flex;
+  }
+}
+.icon3 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+}
+.navbar__yfSi:global(.__wab_instance) {
+  position: relative;
+  left: auto;
+  top: auto;
+}
+.icon2 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+}
+.select:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.option__mZy4A:global(.__wab_instance) {
+  position: relative;
+}
+.option__jNsBh:global(.__wab_instance) {
+  position: relative;
+}
+.option__d8AKt:global(.__wab_instance) {
+  position: relative;
+}
+.option__fgUz3:global(.__wab_instance) {
+  position: relative;
+}
+.icon4 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+}
+.reveal__oQdDh:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.公司描述 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 64px;
+  width: 1280px;
+}
+.公司描述 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 70px);
+  width: calc(100% + 70px);
+}
+.公司描述 > :global(.__wab_flex-container) > *,
+.公司描述 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.公司描述 > :global(.__wab_flex-container) > picture > img,
+.公司描述
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 70px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司描述 {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司描述 > :global(.__wab_flex-container) {
+    flex-direction: column-reverse;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司描述 > :global(.__wab_flex-container) > *,
+  .公司描述 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .公司描述 > :global(.__wab_flex-container) > picture > img,
+  .公司描述
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+  }
+}
+.标语 {
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  min-width: 0;
+}
+.标语 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 40px);
+  height: calc(100% + 40px);
+}
+.标语 > :global(.__wab_flex-container) > *,
+.标语 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.标语 > :global(.__wab_flex-container) > picture > img,
+.标语 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 40px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .标语 {
+    width: 100%;
+    align-self: center;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .标语 > :global(.__wab_flex-container) {
+    justify-content: flex-start;
+    align-items: center;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .标语 > :global(.__wab_flex-container) > *,
+  .标语 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .标语 > :global(.__wab_flex-container) > picture > img,
+  .标语
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .标语 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .标语 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.reveal__hBbCd:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+  width: auto;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__hBbCd:global(.__wab_instance) {
+    width: 100%;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-column-gap: 0px;
+    min-width: 0;
+  }
+}
+.球 {
+  background: url("/plasmic/寒芒/images/ball.png") center center / cover no-repeat;
+  width: 140px;
+  height: 130px;
+  display: block;
+  position: relative;
+  left: auto;
+  top: auto;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .球 {
+    align-self: flex-start;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 70px;
+    height: 70px;
+    display: none;
+  }
+}
+.文字 {
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  min-width: 0;
+}
+.文字 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.文字 > :global(.__wab_flex-container) > *,
+.文字 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字 > :global(.__wab_flex-container) > picture > img,
+.文字 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字 {
+    width: 100%;
+    align-self: center;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text___2E1Ii {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: auto;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___2E1Ii {
+    width: 100%;
+    text-align: center;
+    min-width: 0;
+  }
+}
+.text__glvjt {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__glvjt {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.擅长 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.擅长 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.擅长 > :global(.__wab_flex-container) > *,
+.擅长 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.擅长 > :global(.__wab_flex-container) > picture > img,
+.擅长 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.切换 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换 > :global(.__wab_flex-container) > *,
+.切换 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换 > :global(.__wab_flex-container) > picture > img,
+.切换 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换 {
+    width: 100%;
+    align-self: center;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换 > :global(.__wab_flex-container) {
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: center;
+    justify-content: center;
+    min-width: 0;
+  }
+}
+.text5 {
+  opacity: 0.8;
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text5 {
+    height: auto;
+    line-height: 22px;
+    align-self: baseline;
+  }
+}
+.切换2 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换2 > :global(.__wab_flex-container) > *,
+.切换2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换2 > :global(.__wab_flex-container) > picture > img,
+.切换2 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换2 {
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换2 > :global(.__wab_flex-container) {
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+  }
+}
+.text6 {
+  opacity: 0.8;
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.切换3 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换3 > :global(.__wab_flex-container) > *,
+.切换3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换3 > :global(.__wab_flex-container) > picture > img,
+.切换3 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换3 {
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换3 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text7 {
+  opacity: 0.8;
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text7 {
+    width: auto;
+  }
+}
+.擅长2 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.擅长2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.擅长2 > :global(.__wab_flex-container) > *,
+.擅长2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.擅长2 > :global(.__wab_flex-container) > picture > img,
+.擅长2 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长2 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长2 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.切换4 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换4 > :global(.__wab_flex-container) > *,
+.切换4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换4 > :global(.__wab_flex-container) > picture > img,
+.切换4 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换4 {
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换4 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text8 {
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  opacity: 0.8;
+}
+.切换5 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换5 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换5 > :global(.__wab_flex-container) > *,
+.切换5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换5 > :global(.__wab_flex-container) > picture > img,
+.切换5 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换5 {
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换5 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text9 {
+  opacity: 0.8;
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.切换6 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  height: 40px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
+.切换6 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.切换6 > :global(.__wab_flex-container) > *,
+.切换6 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.切换6 > :global(.__wab_flex-container) > picture > img,
+.切换6 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换6 {
+    width: 100%;
+    min-width: 0;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .切换6 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text10 {
+  opacity: 0.8;
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.button {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.4);
+  width: auto;
+  height: auto;
+  position: relative;
+  display: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+}
+.button > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.button > :global(.__wab_flex-container) > *,
+.button > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.button > :global(.__wab_flex-container) > picture > img,
+.button
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 4px;
+}
+.text__x6Md {
+  display: block;
+  font-size: 16px;
+  font-family: "PingFang SC";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.svg___4GzLj {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  color: #fff;
+  width: 16px;
+  height: 16px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.图片 {
+  background: url("/plasmic/寒芒/images/homepagebanner.webp") center center / cover no-repeat scroll;
+  height: 450px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 0px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .图片 {
+    width: 100%;
+    height: 250px;
+    background: url("/plasmic/寒芒/images/homepageBanner.png") center center / cover no-repeat;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.reveal___65YDx:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.公司介绍 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  width: 1280px;
+  padding: 64px 0px;
+}
+.公司介绍 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: calc(0px - 48px);
+  width: calc(100% + 48px);
+}
+.公司介绍 > :global(.__wab_flex-container) > *,
+.公司介绍 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.公司介绍 > :global(.__wab_flex-container) > picture > img,
+.公司介绍
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司介绍 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    min-width: 0;
+    padding: 64px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司介绍 > :global(.__wab_flex-container) {
+    flex-direction: column;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .公司介绍 > :global(.__wab_flex-container) > *,
+  .公司介绍 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .公司介绍 > :global(.__wab_flex-container) > picture > img,
+  .公司介绍
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.freeBox__aTufQ {
+  display: block;
+  position: relative;
+  width: 187px;
+  height: 260px;
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__aTufQ {
+    height: 120px;
+    width: 90px;
+    align-self: center;
+    flex-shrink: 0;
+  }
+}
+.hand {
+  background: url("/plasmic/寒芒/images/hand.png") center center / cover no-repeat;
+  transform: scale(1, -1) rotate(-180deg);
+  width: 187px;
+  height: 260px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  left: 187px;
+  top: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .hand {
+    height: 100%;
+    width: 100%;
+    left: 90px;
+    min-width: 0;
+    min-height: 0;
+  }
+}
+.right {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+}
+.right > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 48px);
+  height: calc(100% + 48px);
+}
+.right > :global(.__wab_flex-container) > *,
+.right > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.right > :global(.__wab_flex-container) > picture > img,
+.right > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .right {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .right > :global(.__wab_flex-container) {
+    justify-content: flex-start;
+    align-items: center;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .right > :global(.__wab_flex-container) > *,
+  .right > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .right > :global(.__wab_flex-container) > picture > img,
+  .right
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.reveal__dYqIc:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.title {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .title {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.文字2 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.文字2 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.文字2 > :global(.__wab_flex-container) > *,
+.文字2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字2 > :global(.__wab_flex-container) > picture > img,
+.文字2 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+.text__k5AhP {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__k5AhP {
+    font-size: 16px;
+    text-align: justify;
+    line-height: 180%;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.reveal__xz0Eh:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__xz0Eh:global(.__wab_instance) {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.业务领域 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  width: 1280px;
+  padding: 64px 0px;
+}
+.业务领域 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 48px);
+  height: calc(100% + 48px);
+}
+.业务领域 > :global(.__wab_flex-container) > *,
+.业务领域 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.业务领域 > :global(.__wab_flex-container) > picture > img,
+.业务领域
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .业务领域 {
+    width: 100%;
+    min-width: 0;
+    padding: 64px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .业务领域 > :global(.__wab_flex-container) {
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .业务领域 > :global(.__wab_flex-container) > *,
+  .业务领域 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .业务领域 > :global(.__wab_flex-container) > picture > img,
+  .业务领域
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.reveal__jSlWy:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__jSlWy:global(.__wab_instance) {
+    width: 100%;
+    align-self: center;
+    min-width: 0;
+  }
+}
+.title2 {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: #ffffff;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .title2 {
+    width: 100%;
+    text-align: center;
+    min-width: 0;
+  }
+}
+.content {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.content > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 24px);
+  width: calc(100% + 24px);
+}
+.content > :global(.__wab_flex-container) > *,
+.content > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.content > :global(.__wab_flex-container) > picture > img,
+.content
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 24px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content > :global(.__wab_flex-container) {
+    flex-direction: column;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content > :global(.__wab_flex-container) > *,
+  .content > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .content > :global(.__wab_flex-container) > picture > img,
+  .content
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.文字3 {
+  flex-direction: column;
+  background: linear-gradient(var(--token-sNUAmGS4S), var(--token-sNUAmGS4S)),
+    linear-gradient(180deg, rgba(48, 54, 68, 1) 0%, rgba(31, 36, 46, 1) 99%) 0%
+      0% / 100% 100% no-repeat;
+  filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.15));
+  height: 300px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  width: 100%;
+  min-width: 0;
+  border-radius: 8px;
+  padding: 24px;
+  border: 2px solid var(--token-j_D3zZ4c0);
+}
+.文字3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 40px);
+  height: calc(100% + 40px);
+}
+.文字3 > :global(.__wab_flex-container) > *,
+.文字3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字3 > :global(.__wab_flex-container) > picture > img,
+.文字3 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 40px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字3 {
+    height: 100%;
+    min-height: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字3 > :global(.__wab_flex-container) {
+    min-height: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字3 > :global(.__wab_flex-container) > *,
+  .文字3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .文字3 > :global(.__wab_flex-container) > picture > img,
+  .文字3
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.image15 {
+  background: url("/plasmic/寒芒/images/image政务场景.webp") center center / cover no-repeat;
+  width: 257px;
+  height: 200px;
+  display: block;
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0;
+  bottom: 0;
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image15 {
+    height: 120px;
+    width: 150px;
+    flex-shrink: 0;
+  }
+}
+.title3 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.title3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.title3 > :global(.__wab_flex-container) > *,
+.title3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.title3 > :global(.__wab_flex-container) > picture > img,
+.title3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 12px;
+}
+.svg___0YnjZ {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text__o3XLv {
+  display: block;
+  flex-grow: 1;
+  font-size: 24px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.text11 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.text11 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.text11 > :global(.__wab_flex-container) > *,
+.text11 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.text11 > :global(.__wab_flex-container) > picture > img,
+.text11
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text11 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text11 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text__eDQo {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__eDQo {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.text__hmt6M {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__hmt6M {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.text___9Mnw8 {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___9Mnw8 {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.文字4 {
+  flex-direction: column;
+  background: linear-gradient(var(--token-sNUAmGS4S), var(--token-sNUAmGS4S)),
+    linear-gradient(180deg, rgba(48, 54, 68, 1) 0%, rgba(31, 36, 46, 1) 99%) 0%
+      0% / 100% 100% no-repeat;
+  height: 300px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  width: 100%;
+  min-width: 0;
+  border-radius: 8px;
+  padding: 24px;
+  border: 2px solid var(--token-j_D3zZ4c0);
+}
+.文字4 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 40px);
+  height: calc(100% + 40px);
+}
+.文字4 > :global(.__wab_flex-container) > *,
+.文字4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字4 > :global(.__wab_flex-container) > picture > img,
+.文字4 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 40px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字4 {
+    height: 100%;
+    min-height: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字4 > :global(.__wab_flex-container) {
+    min-height: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字4 > :global(.__wab_flex-container) > *,
+  .文字4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .文字4 > :global(.__wab_flex-container) > picture > img,
+  .文字4
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.image12 {
+  background: url("/plasmic/寒芒/images/image商业化.png") center center / cover no-repeat;
+  width: 240px;
+  height: 240px;
+  display: block;
+  position: absolute;
+  left: auto;
+  top: auto;
+  bottom: 0;
+  right: 0;
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image12 {
+    height: 150px;
+    width: 150px;
+    flex-shrink: 0;
+  }
+}
+.title4 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.title4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.title4 > :global(.__wab_flex-container) > *,
+.title4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.title4 > :global(.__wab_flex-container) > picture > img,
+.title4
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 12px;
+}
+.svg__coV51 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text__q13Cp {
+  display: block;
+  font-size: 24px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.text12 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.text12 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.text12 > :global(.__wab_flex-container) > *,
+.text12 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.text12 > :global(.__wab_flex-container) > picture > img,
+.text12
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text12 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text12 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text__iblNr {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__iblNr {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.text__pkeEa {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__pkeEa {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.text__u9NkD {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__u9NkD {
+    width: 100%;
+    font-size: 16px;
+    min-width: 0;
+  }
+}
+.文字5 {
+  flex-direction: column;
+  background: linear-gradient(var(--token-sNUAmGS4S), var(--token-sNUAmGS4S)),
+    linear-gradient(180deg, rgba(48, 54, 68, 1) 0%, rgba(31, 36, 46, 1) 99%) 0%
+      0% / 100% 100% no-repeat;
+  height: 300px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  width: 100%;
+  min-width: 0;
+  border-radius: 8px;
+  padding: 24px;
+  border: 2px solid var(--token-j_D3zZ4c0);
+}
+.文字5 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 40px);
+  height: calc(100% + 40px);
+}
+.文字5 > :global(.__wab_flex-container) > *,
+.文字5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字5 > :global(.__wab_flex-container) > picture > img,
+.文字5 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 40px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字5 {
+    height: 212px;
+    flex-shrink: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字5 > :global(.__wab_flex-container) {
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字5 > :global(.__wab_flex-container) > *,
+  .文字5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .文字5 > :global(.__wab_flex-container) > picture > img,
+  .文字5
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.image14 {
+  background: url("/plasmic/寒芒/images/image工业场景.png") center center / cover no-repeat;
+  width: 240px;
+  height: 240px;
+  display: block;
+  position: absolute;
+  left: auto;
+  top: auto;
+  bottom: 0;
+  right: 0;
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image14 {
+    height: 150px;
+    width: 150px;
+    flex-shrink: 0;
+  }
+}
+.title5 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.title5 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.title5 > :global(.__wab_flex-container) > *,
+.title5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.title5 > :global(.__wab_flex-container) > picture > img,
+.title5
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 12px;
+}
+.svg__pqbQ {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text__t80Zd {
+  display: block;
+  font-size: 24px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.text13 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.text13 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.text13 > :global(.__wab_flex-container) > *,
+.text13 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.text13 > :global(.__wab_flex-container) > picture > img,
+.text13
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text13 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text13 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text___69VTa {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___69VTa {
+    font-size: 16px;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__yVeOx {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 363px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__yVeOx {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.reveal__f9UO:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__f9UO:global(.__wab_instance) {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.客户案例 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  width: 1280px;
+  padding: 64px 0px;
+}
+.客户案例 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 48px);
+  height: calc(100% + 48px);
+}
+.客户案例 > :global(.__wab_flex-container) > *,
+.客户案例 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.客户案例 > :global(.__wab_flex-container) > picture > img,
+.客户案例
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例 {
+    width: 100%;
+    min-width: 0;
+    padding: 64px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例 > :global(.__wab_flex-container) {
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例 > :global(.__wab_flex-container) > *,
+  .客户案例 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .客户案例 > :global(.__wab_flex-container) > picture > img,
+  .客户案例
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.reveal__jSAtp:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__jSAtp:global(.__wab_instance) {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.title6 {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .title6 {
+    text-align: center;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.content2 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  width: 1280px;
+}
+.content2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: calc(0px - 24px);
+  width: calc(100% + 24px);
+}
+.content2 > :global(.__wab_flex-container) > *,
+.content2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.content2 > :global(.__wab_flex-container) > picture > img,
+.content2
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 24px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content2 > :global(.__wab_flex-container) {
+    flex-direction: column;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content2 > :global(.__wab_flex-container) > *,
+  .content2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .content2 > :global(.__wab_flex-container) > picture > img,
+  .content2
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.客户案例3 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  width: 100%;
+  min-width: 0;
+}
+.客户案例3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.客户案例3 > :global(.__wab_flex-container) > *,
+.客户案例3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.客户案例3 > :global(.__wab_flex-container) > picture > img,
+.客户案例3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例3 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例3 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.rectangle2 {
+  background: url("/plasmic/寒芒/images/中烟banner.png") center center / cover no-repeat;
+  height: 200px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.title8 {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.root .title8:hover {
+  text-decoration-line: underline;
+}
+.tag2 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  border-radius: 4px;
+  padding: 5px 12px;
+}
+.tag2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.tag2 > :global(.__wab_flex-container) > *,
+.tag2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.tag2 > :global(.__wab_flex-container) > picture > img,
+.tag2 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+.工业化机器视觉领域 {
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(239, 244, 255, 1);
+  position: relative;
+}
+.客户案例6 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  width: 100%;
+  min-width: 0;
+}
+.客户案例6 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.客户案例6 > :global(.__wab_flex-container) > *,
+.客户案例6 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.客户案例6 > :global(.__wab_flex-container) > picture > img,
+.客户案例6
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例6 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例6 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.rectangle5 {
+  background: url("/plasmic/寒芒/images/餐饮banner.png") center center / cover no-repeat;
+  height: 200px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.title13 {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.root .title13:hover {
+  text-decoration-line: underline;
+}
+.tag5 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  border-radius: 4px;
+  padding: 5px 12px;
+}
+.tag5 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.tag5 > :global(.__wab_flex-container) > *,
+.tag5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.tag5 > :global(.__wab_flex-container) > picture > img,
+.tag5 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+.工业化机器视觉领域4 {
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(239, 244, 255, 1);
+  position: relative;
+}
+.客户案例4 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  width: 100%;
+  min-width: 0;
+}
+.客户案例4 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.客户案例4 > :global(.__wab_flex-container) > *,
+.客户案例4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.客户案例4 > :global(.__wab_flex-container) > picture > img,
+.客户案例4
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例4 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例4 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.rectangle3 {
+  background: url("/plasmic/寒芒/images/创维预测banner.png") center center / cover no-repeat;
+  height: 200px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.title9 {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.root .title9:hover {
+  text-decoration-line: underline;
+}
+.tag3 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  border-radius: 4px;
+  padding: 5px 12px;
+}
+.tag3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.tag3 > :global(.__wab_flex-container) > *,
+.tag3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.tag3 > :global(.__wab_flex-container) > picture > img,
+.tag3 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+.工业化机器视觉领域2 {
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(239, 244, 255, 1);
+  position: relative;
+}
+.客户案例5 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  width: 100%;
+  min-width: 0;
+}
+.客户案例5 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.客户案例5 > :global(.__wab_flex-container) > *,
+.客户案例5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.客户案例5 > :global(.__wab_flex-container) > picture > img,
+.客户案例5
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例5 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .客户案例5 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.rectangle4 {
+  background: url("/plasmic/寒芒/images/创维监控banner.webp") center center / cover no-repeat;
+  height: 200px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.title10 {
+  display: block;
+  font-size: 18px;
+  font-family: "system-ui";
+  font-weight: 600;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.root .title10:hover {
+  text-decoration-line: underline;
+}
+.tag4 {
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  border-radius: 4px;
+  padding: 5px 12px;
+}
+.tag4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.tag4 > :global(.__wab_flex-container) > *,
+.tag4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.tag4 > :global(.__wab_flex-container) > picture > img,
+.tag4 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 10px;
+}
+.工业化机器视觉领域3 {
+  display: block;
+  font-size: 14px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: rgba(239, 244, 255, 1);
+  position: relative;
+}
+.reveal__sd0Fu:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.人员占比 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  width: 1280px;
+  padding: 64px 0px;
+}
+.人员占比 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 48px);
+  height: calc(100% + 48px);
+}
+.人员占比 > :global(.__wab_flex-container) > *,
+.人员占比 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.人员占比 > :global(.__wab_flex-container) > picture > img,
+.人员占比
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .人员占比 {
+    width: 100%;
+    flex-direction: column;
+    min-width: 0;
+    padding: 64px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .人员占比 > :global(.__wab_flex-container) {
+    flex-direction: column;
+    min-width: 0;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .人员占比 > :global(.__wab_flex-container) > *,
+  .人员占比 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .人员占比 > :global(.__wab_flex-container) > picture > img,
+  .人员占比
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+  }
+}
+.content3 {
+  flex-direction: row;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+}
+.content3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: calc(0px - 24px);
+  width: calc(100% + 24px);
+}
+.content3 > :global(.__wab_flex-container) > *,
+.content3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.content3 > :global(.__wab_flex-container) > picture > img,
+.content3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 24px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content3 {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content3 > :global(.__wab_flex-container) {
+    flex-direction: column-reverse;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 24px);
+    height: calc(100% + 24px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .content3 > :global(.__wab_flex-container) > *,
+  .content3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .content3 > :global(.__wab_flex-container) > picture > img,
+  .content3
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+}
+.brand2 {
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  align-self: center;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  min-width: 0;
+  padding: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .brand2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-row-gap: 16px;
+    grid-column-gap: 16px;
+  }
+}
+.freeBox__rsKeE {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img__zhMmy {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img__zhMmy > picture > img {
+  object-fit: cover;
+}
+.img__zhMmy > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img__zhMmy {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.freeBox__zhzo8 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img__aw5CA {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  object-position: center 50%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img__aw5CA > picture > img {
+  object-fit: cover;
+  object-position: center 50%;
+}
+.img__aw5CA > .__wab_img-spacer > img {
+  object-fit: cover;
+  object-position: center 50%;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img__aw5CA {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.freeBox__gAoTn {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img__nf9In {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img__nf9In > picture > img {
+  object-fit: cover;
+}
+.img__nf9In > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img__nf9In {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.freeBox___5WNXh {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img___8DdtL {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img___8DdtL > picture > img {
+  object-fit: cover;
+}
+.img___8DdtL > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img___8DdtL {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.freeBox__uo0Jz {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img___1F7AX {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img___1F7AX > picture > img {
+  object-fit: cover;
+}
+.img___1F7AX > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img___1F7AX {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.freeBox__jv016 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 0px;
+}
+.img__yVjOx {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 150px;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.img__yVjOx > picture > img {
+  object-fit: cover;
+}
+.img__yVjOx > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img__yVjOx {
+    height: 100px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.文字6 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.文字6 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.文字6 > :global(.__wab_flex-container) > *,
+.文字6 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.文字6 > :global(.__wab_flex-container) > picture > img,
+.文字6 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字6 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .文字6 > :global(.__wab_flex-container) {
+    min-width: 0;
+  }
+}
+.text__q3A1I {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 420px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__q3A1I {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__f1Uix {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__f1Uix {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__cdNV {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__cdNV {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__r3IXu {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__r3IXu {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__c2Hl {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__c2Hl {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text___04X {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___04X {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__ik2Wp {
+  display: block;
+  font-size: 16px;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 401px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__ik2Wp {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.reveal__cksvk:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .reveal__cksvk:global(.__wab_instance) {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.擅长技术栈 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: center;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  width: 1280px;
+}
+.擅长技术栈 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 48px);
+  height: calc(100% + 48px);
+}
+.擅长技术栈 > :global(.__wab_flex-container) > *,
+.擅长技术栈 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.擅长技术栈 > :global(.__wab_flex-container) > picture > img,
+.擅长技术栈
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 48px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长技术栈 {
+    width: 100%;
+    align-self: center;
+    min-width: 0;
+    padding: 64px 0px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .擅长技术栈 > :global(.__wab_flex-container) {
+    justify-content: flex-start;
+    align-items: center;
+    min-width: 0;
+  }
+}
+.title11 {
+  display: block;
+  font-size: 40px;
+  font-family: "system-ui";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 56px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.freeBox__grMet {
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  grid-row-gap: 40px;
+  align-self: center;
+  grid-column-gap: 40px;
+  min-width: 0;
+  padding: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__grMet {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-row-gap: 24px;
+    grid-column-gap: 24px;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.技术栈9 {
+  flex-direction: column;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 0px;
+}
+.技术栈9 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈9 > :global(.__wab_flex-container) > *,
+.技术栈9 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈9 > :global(.__wab_flex-container) > picture > img,
+.技术栈9
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image2 {
+  background: url("/plasmic/寒芒/images/phone.webp") center center / cover no-repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  transition-property: background;
+  transition-duration: 0.4s;
+  transition-timing-function: ease-in-out;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image2 {
+    height: 180px;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+  }
+}
+.text22 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈10 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈10 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈10 > :global(.__wab_flex-container) > *,
+.技术栈10 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈10 > :global(.__wab_flex-container) > picture > img,
+.技术栈10
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image8 {
+  background: url("/plasmic/寒芒/images/image6.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  transition-property: background;
+  transition-duration: 0.4s;
+  transition-timing-function: ease-in-out;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image8 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text23 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈11 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈11 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈11 > :global(.__wab_flex-container) > *,
+.技术栈11 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈11 > :global(.__wab_flex-container) > picture > img,
+.技术栈11
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image18 {
+  background: url("/plasmic/寒芒/images/image7.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image18 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text24 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈12 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈12 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈12 > :global(.__wab_flex-container) > *,
+.技术栈12 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈12 > :global(.__wab_flex-container) > picture > img,
+.技术栈12
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image19 {
+  background: url("/plasmic/寒芒/images/image9.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image19 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text25 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈13 {
+  flex-direction: column;
+  background: none;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  padding: 0px;
+}
+.技术栈13 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈13 > :global(.__wab_flex-container) > *,
+.技术栈13 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈13 > :global(.__wab_flex-container) > picture > img,
+.技术栈13
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image20 {
+  background: url("/plasmic/寒芒/images/技术栈.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image20 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text26 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈14 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈14 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈14 > :global(.__wab_flex-container) > *,
+.技术栈14 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈14 > :global(.__wab_flex-container) > picture > img,
+.技术栈14
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image21 {
+  background: url("/plasmic/寒芒/images/image10.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image21 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text27 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈15 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈15 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈15 > :global(.__wab_flex-container) > *,
+.技术栈15 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈15 > :global(.__wab_flex-container) > picture > img,
+.技术栈15
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image22 {
+  background: url("/plasmic/寒芒/images/image11.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image22 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text28 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.技术栈16 {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.技术栈16 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.技术栈16 > :global(.__wab_flex-container) > *,
+.技术栈16 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.技术栈16 > :global(.__wab_flex-container) > picture > img,
+.技术栈16
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.image23 {
+  background: url("/plasmic/寒芒/images/image13.jpeg") top 50% left 50% / cover repeat;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image23 {
+    height: 180px;
+    flex-shrink: 0;
+  }
+}
+.text29 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "system-ui";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  position: relative;
+}
+.footer:global(.__wab_instance) {
+  position: relative;
+}

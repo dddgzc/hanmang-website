@@ -1098,7 +1098,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.rectangle5
                         )}
                         component={Link}
-                        href={"/WeChat food" as const}
+                        href={"/WeChatFood" as const}
                         platform={"nextjs"}
                       />
 
@@ -1112,7 +1112,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.title13
                         )}
                         component={Link}
-                        href={"/WeChat food" as const}
+                        href={"/WeChatFood" as const}
                         platform={"nextjs"}
                       >
                         {"餐饮端微信小程序SaaS服务云平台 "}
@@ -1155,7 +1155,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.rectangle3
                         )}
                         component={Link}
-                        href={"/Skyworth analysis" as const}
+                        href={"/SkyworthAnalysis" as const}
                         platform={"nextjs"}
                       />
 
@@ -1169,7 +1169,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.title9
                         )}
                         component={Link}
-                        href={"/Skyworth analysis" as const}
+                        href={"/SkyworthAnalysis" as const}
                         platform={"nextjs"}
                       >
                         {"创维集团自动化营收预测分析平台"}
@@ -1212,7 +1212,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.rectangle4
                         )}
                         component={Link}
-                        href={"/Skyworth monitoring" as const}
+                        href={"/SkyworthMonitoring" as const}
                         platform={"nextjs"}
                       />
 
@@ -1226,7 +1226,7 @@ function Plasmic成都寒芒科技有限公司__RenderFunc(props: {
                           sty.title10
                         )}
                         component={Link}
-                        href={"/Skyworth monitoring" as const}
+                        href={"/SkyworthMonitoring" as const}
                         platform={"nextjs"}
                       >
                         {"创维集团营收监控数字大屏"}

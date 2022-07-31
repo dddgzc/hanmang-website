@@ -376,7 +376,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link__ibLlN
               )}
               component={Link}
-              href={"/WeChat food" as const}
+              href={"/WeChatFood" as const}
               platform={"nextjs"}
             >
               {"餐饮端微信小程序SaaS服务云平台"}
@@ -390,7 +390,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link__saFzf
               )}
               component={Link}
-              href={"/Skyworth analysis" as const}
+              href={"/SkyworthAnalysis" as const}
               platform={"nextjs"}
             >
               {"创维集团自动化营收预测分析平台"}
@@ -404,7 +404,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link__ccObg
               )}
               component={Link}
-              href={"/Skyworth monitoring" as const}
+              href={"/SkyworthMonitoring" as const}
               platform={"nextjs"}
             >
               {"创维集团营收监控数字大屏"}
